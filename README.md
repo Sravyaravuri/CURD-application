@@ -1,1 +1,1 @@
-# CURD-application
+# CRUD-application
